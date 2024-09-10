@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://odstivath.github.io/sitemap.html.gz
+Sitemap: https://odstivath.github.io/app/sitemap.html.gz
+Sitemap: https://odstivath.github.io/assets/sitemap.html.gz
+Sitemap: https://odstivath.github.io/css/sitemap.html.gz
+Sitemap: https://odstivath.github.io/includes/sitemap.html.gz
+Sitemap: https://odstivath.github.io/item/sitemap.html.gz
+Sitemap: https://odstivath.github.io/src/sitemap.html.gz
